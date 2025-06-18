@@ -1,0 +1,14 @@
+{
+  "level_1": [
+    "Giới thiệu bản thân và kinh nghiệm làm việc với dữ liệu của bạn.",
+    "Bạn đã từng tham gia dự án phân tích dữ liệu nào? Hãy mô tả ngắn gọn quy trình và công cụ bạn sử dụng."
+  ],
+  "level_2": [
+    "Giải thích sự khác nhau giữa DataFrame và Series trong pandas.",
+    "Hãy viết câu lệnh SQL để lấy top 5 khách hàng có doanh thu cao nhất trong bảng `orders`."
+  ],
+  "level_3": [
+    "Bạn đã từng xây dựng pipeline ETL nào chưa? Mô tả kiến trúc tổng quát và các công cụ bạn sử dụng.",
+    "Làm thế nào bạn đánh giá hiệu năng của một mô hình machine learning? Nêu các chỉ số và phương pháp bạn hay dùng."
+  ]
+}

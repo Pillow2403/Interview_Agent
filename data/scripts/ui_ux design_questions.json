@@ -1,0 +1,14 @@
+{
+  "level_1": [
+    "Giới thiệu bản thân và kinh nghiệm của bạn trong lĩnh vực UI/UX Design.",
+    "Bạn đã từng tham gia dự án thiết kế giao diện hay trải nghiệm người dùng nào chưa? Hãy mô tả ngắn gọn."
+  ],
+  "level_2": [
+    "Bạn hiểu thế nào về quy trình thiết kế UI/UX? Hãy trình bày các bước chính.",
+    "Hãy giải thích sự khác nhau giữa wireframe, mockup và prototype."
+  ],
+  "level_3": [
+    "Hãy mô tả cách bạn thực hiện user testing và cách bạn sử dụng kết quả để cải thiện thiết kế.",
+    "Bạn đã từng xây dựng hoặc làm việc với design system chưa? Hãy nêu cách bạn tổ chức và duy trì nó."
+  ]
+}

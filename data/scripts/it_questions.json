@@ -1,0 +1,14 @@
+{
+  "level_1": [
+    "Giới thiệu bản thân và kinh nghiệm của bạn.",
+    "Bạn đã từng làm dự án nào liên quan đến lập trình chưa? Hãy mô tả ngắn gọn."
+  ],
+  "level_2": [
+    "Hãy giải thích về khái niệm OOP trong Python.",
+    "Sự khác nhau giữa list và tuple trong Python là gì?"
+  ],
+  "level_3": [
+    "Bạn đã từng làm microservices chưa? Mô tả cách bạn thiết kế một hệ thống microservices đơn giản.",
+    "Làm thế nào để tối ưu hóa truy vấn SQL trong ứng dụng web?"
+  ]
+}

@@ -1,0 +1,16 @@
+# LangChain & OpenAI
+langchain>=0.0.300
+openai>=0.27.0
+
+# Gradio cho giao diện web
+gradio>=3.30.0
+
+# PDF generation
+reportlab>=3.6.0
+
+# Gửi email
+python-dotenv   
+
+#OAuth2 với Google
+google-auth-oauthlib>=0.7.0
+google-api-python-client>=2.87.0

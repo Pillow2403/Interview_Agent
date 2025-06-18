@@ -1,0 +1,14 @@
+{
+  "level_1": [
+    "Giới thiệu bản thân và kinh nghiệm quản lý sản phẩm của bạn.",
+    "Hãy kể về một sản phẩm bạn đã dẫn dắt từ ý tưởng đến ra mắt."
+  ],
+  "level_2": [
+    "Mô tả quy trình xây dựng roadmap sản phẩm của bạn.",
+    "Bạn thường sử dụng framework nào để ưu tiên tính năng (ví dụ RICE, MoSCoW)? Giải thích cách áp dụng."
+  ],
+  "level_3": [
+    "Làm thế nào bạn đo lường thành công của một tính năng mới? Nêu các metric và cách thu thập dữ liệu.",
+    "Khi có xung đột giữa các stakeholder (engineering, marketing, sales), bạn sẽ xử lý như thế nào?"
+  ]
+}
